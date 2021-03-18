@@ -1,0 +1,36 @@
+			#=========================================================#
+			#                                                         #
+			# Add your backup osu! file into the root file as osu.exe #
+			#                                                         #
+			#=========================================================#
+			#                                                         #
+			#  Add old  (2015) osu! file into the root as osuold.exe  #
+			#                        (OPTIONAL, IGNORE ERROR MSG)     #
+			#                                                         #
+			#=========================================================#
+			#			Additional Info:							  #
+			#		If you didn't get this from github or my website, #
+			#		Please report it on discord to me.                #
+			#		The link is in the program						  #
+			#=========================================================# 
+If you would like to edit the code, you can, but don't forget to credit both me and yourself. You can contact me about bugs and stuff ***at the discord (link is in program)
+DONT RUN osu OR osuold !!!
+
+
+If you get an error like this:
+Traceback (most recent call last):
+  File "C:\Users\Pepsi\Desktop\osu!launcher release\main.ex", line 61, in <module>
+    b = cfgp.get('main','osudir')
+  File "C:\Users\Pepsi\AppData\Local\Programs\Python\Python39\lib\configparser.py", line 781, in get
+    d = self._unify_values(section, vars)
+  File "C:\Users\Pepsi\AppData\Local\Programs\Python\Python39\lib\configparser.py", line 1149, in _unify_values
+    raise NoSectionError(section) from None
+configparser.NoSectionError: No section: 'main'
+Dont panic, restart the app.
+=============================================================================================
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ok gb
+
+dev note: change .ex to .py to edit lol
+
+Sincerely, Windows.
